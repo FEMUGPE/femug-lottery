@@ -1,0 +1,36 @@
+{
+  "name": "femug-lottery",
+  "description": "Select a random person from json",
+  "version": "0.1.0",
+  "author": {
+    "name": "afonsopacifer",
+    "email": "afonsopacifer@live.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FEMUGPE/femug-lottery"
+  },
+  "keywords": [
+    "lottery",
+    "femug"
+  ],
+  "license": "MIT",
+  "preferGlobal": true,
+  "main": "lottery.js",
+  "bin": {
+    "lottery": "bin/index.js"
+  },
+  "dependencies": {
+    "commander": "^2.9.0"
+  },
+  "scripts": {
+    "test": "mocha test/index.js",
+    "eslint": "eslint lottery.js bin/*",
+    "jsdocs": "jsdoc lottery.js bin/*"
+  },
+  "devDependencies": {
+    "eslint": "^3.2.2",
+    "jsdoc": "^3.4.0",
+    "mocha": "^3.0.0"
+  }
+}
