@@ -73,4 +73,4 @@ See [Releases](https://github.com/FEMUGPE/femug-lottery/releases) for detailed c
 
 ## License
 
-[MIT License](https://github.com/FEMUGPE/femug-lottery/blob/master/LICENSE.md) © [Afonso Pacifer](http://afonsopacifer.com/)
+[MIT License](https://github.com/FEMUGPE/femug-lottery/blob/master/LICENSE.md) © FEMUGPE
